@@ -1,1 +1,2 @@
-# Billing-Store
+# BILLING-SYSTEM
+General store billing system
